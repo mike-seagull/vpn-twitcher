@@ -1,0 +1,7 @@
+ip_address: my_ip_address
+notification:
+    up_message: vpn is active
+    down_message: vpn is down
+    pushover:
+        user_key: my_user_key
+        api_token: my_api_token
